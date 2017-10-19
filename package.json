@@ -1,0 +1,33 @@
+{
+  "name": "AppPreferences",
+  "version": "1.0.0",
+  "description": "Originally by Simon MacDonald (@macdonst), ported to plugman and some other cleanup by Dan Moore (@mooreds).  Dan Moore also pulled in the iOS code, written by Tue Topholm / Sugee",
+  "cordova": {
+    "id": "com.simonmacdonald.prefs",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnill/AppPreferences.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=2.9.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnill/AppPreferences/issues"
+  },
+  "homepage": "https://github.com/mnill/AppPreferences#readme"
+}
